@@ -1,6 +1,6 @@
-# first_ecommerce_admin
+# ecommerce_admin
 
-A new Flutter project.
+Flutter project.
 
 ## Getting Started
 
