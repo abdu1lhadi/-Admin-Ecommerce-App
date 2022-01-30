@@ -1,4 +1,4 @@
-# ecommerce_admin
+# Ecommerce_admin
 
 Flutter project.
 
